@@ -1,3 +1,10 @@
+# Hexo
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
 # Node.js
 node_modules
 
