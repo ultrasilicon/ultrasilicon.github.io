@@ -1,0 +1,23 @@
+# Node.js
+node_modules
+
+# IDE files
+*.usr
+*.user
+.idea/
+*.autosave
+
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Icon
+
+
+
+
